@@ -191,15 +191,6 @@ function Index() {
             </div>
           </Reveal>
 
-          <Reveal delay={150}>
-            <h1 className="font-display text-6xl sm:text-7xl md:text-8xl lg:text-9xl leading-[0.95] mb-6">
-              <span className="block underline-gold text-gold-gradient">Ponni</span>
-              <span className="block text-foreground/95 italic font-light text-5xl sm:text-6xl md:text-7xl lg:text-8xl mt-2">
-                Wood Carving
-              </span>
-            </h1>
-          </Reveal>
-
           <Reveal delay={300}>
             <p className="font-display italic text-xl sm:text-2xl md:text-3xl text-[var(--sandalwood)]/90 mb-4 max-w-2xl mx-auto">
               Handcrafted Heritage in Every Detail
